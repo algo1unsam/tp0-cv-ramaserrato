@@ -8,7 +8,7 @@
 
 ## Mi videojuego favorito es:
 
-![Rocket League](http://ejemplo.com/imagen.jpg)
+![Rocket League](https://www.rocketleague.com/images/keyart/rl_evergreen.jpg)
 
 ### Se trata de jugar al futbol, pero con autos. El que mete más goles gana.
 ### Se puede jugar tanto casual como competitivo.
